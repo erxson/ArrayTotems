@@ -5,6 +5,8 @@
 // @description  Create totem resourcepack from array
 // @author       ericsson
 // @include      https://spea.cc/totem/
+// @updateURL    https://github.com/erxson/ArrayTotems/raw/master/ArrayTotems.user.js
+// @downloadURL  https://github.com/erxson/ArrayTotems/raw/master/ArrayTotems.user.js
 // @match        https://www.tampermonkey.net/index.php?version=4.18.6166&ext=gcal&updated=true
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tampermonkey.net
 // @grant        GM_cookie
